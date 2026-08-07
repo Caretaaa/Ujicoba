@@ -1,0 +1,1 @@
+const s={whatsappNumber:"6281215935791",surveyResults:"https://docs.google.com/spreadsheets/d/1GSPti5cwvUyJcyeW636KeFh9JdKrrZnA8-E4msE5Jb4/edit?usp=sharing"};function n(t){const e=`https://wa.me/${s.whatsappNumber}`;return t?`${e}?text=${encodeURIComponent(t)}`:e}export{s as S,n as w};

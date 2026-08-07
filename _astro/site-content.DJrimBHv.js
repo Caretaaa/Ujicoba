@@ -1,0 +1,1 @@
+const e=[{num:"01",key:"klaster01"},{num:"02",key:"klaster02"},{num:"03",key:"klaster03"},{num:"04",key:"klaster04"},{num:"Lintas",key:"klaster05"}],a=[{file:"kegiatan6.webp",index:0},{file:"kegiatan2.webp",index:1},{file:"kegiatan3.webp",index:2},{file:"kegiatan4.webp",index:3},{file:"kegiatan5.webp",index:4},{file:"kegiatan7.webp",index:5}];export{a as G,e as K};
